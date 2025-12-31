@@ -87,8 +87,10 @@ I specialize in building **production-grade React Native applications** with **a
 
 ## 📱 Featured Projects
 
-### 🏆 [Salahub](https://apps.apple.com/app/salahub) — *Featured in Saudi App Store*
-**React Native • Redux Toolkit • React Query • Fastlane**
+### 🏆 [Sala Hub](https://apps.apple.com/eg/app/sala-hub/id1582542716) — *Featured in Saudi App Store*
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/TCF-Sala/mobile)
+
+**React Native • TypeScript • Apollo Client • GraphQL • Fastlane**
 
 - 📈 **20K+ Active Users** | 30% Monthly Growth
 - ⚡ **60% TTI Reduction** via FlashList + React Query migration
@@ -100,42 +102,65 @@ I specialize in building **production-grade React Native applications** with **a
 
 ---
 
-### 🎾 [Ventio](https://apps.apple.com/app/ventio) — *Editors' Choice (Spain)*
-**React Native • Reanimated • WebSockets**
+### 🎾 [Tactec Football](https://apps.apple.com/us/app/tactec/id1668711028) — *Editors' Choice (Spain)*
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/ahmedfouad01099/UDAlmeria)
+
+**React Native • TypeScript • React Query • Real-time**
 
 - ⭐ **Editors' Choice** in Spanish App Store
 - 🎨 **10+ Complex Animations** using Reanimated (50% lag reduction)
 - 📊 **Real-time Workout Tracking** via WebSockets
 - 👥 **Team Leadership** (2 developers)
 
-**Tech Stack:** React Native, Reanimated, WebSockets, Redux
+**Tech Stack:** React Native, TypeScript, React Query, Firebase, Socket.io
 
 ---
 
-### 🛍️ [Microtech Marketplace](https://play.google.com/store/apps/details?id=com.microtech) — *Top New App (Kuwait)*
-**React Native • 150+ Categories • $500K+ Transactions**
+### 🛍️ [Usedo Marketplace](https://apps.apple.com/eg/app/usedo-sell-buy-online/id1523226674) — *Top New App (Kuwait)*
+[![View Code](https://img.shields.io/badge/Bitbucket-View_Code-0052CC?style=flat-square&logo=bitbucket)](https://bitbucket.org/microtechnologies/app-usedoo)
+
+**React Native • TypeScript • Redux-Saga • KNET Payment**
 
 - 🏆 **Top New App** Feature in Kuwait
 - 📦 **150+ Categories** with optimized navigation
 - 💰 **$500K+ Annual Transactions**
 - ⭐ **4.5/5 Rating** (25K users)
 
-**Tech Stack:** React Native, TypeScript, GraphQL, Redux Toolkit
+**Tech Stack:** React Native, TypeScript, Redux-Saga, KNET, Firebase
 
 ---
 
-### 🏥 [Depax](https://play.google.com/store/apps/details?id=com.depax) — *Medical Platform*
-**React Native (Expo) • Healthcare**
+### 🏥 [CANNULA Medical Platform](https://apps.apple.com/eg/app/cannula/id1602269914?platform=iphone) — *Healthcare Services*
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/ahmedfouad01099/canola)
+
+**React Native (Expo) • Location Services • Real-time**
 
 - 🏥 **Secure Patient-Provider Messaging**
-- 🔐 **HIPAA-Compliant Architecture**
+- 🔐 **Doctor-Patient Matching** with real-time location
+- 🚨 **Emergency & Urgent Care** services
 - 🚀 **Rapid Adoption** by medical providers
 
-**Tech Stack:** React Native (Expo), Redux, REST APIs
+**Tech Stack:** React Native (Expo), Redux, Expo Location, Firebase
 
 ---
 
-### 📦 [KelTech NFC Inventory](https://play.google.com/store/apps/details?id=com.keltech) — *Enterprise Solution*
+### 🍼 [Hedeya Stores](https://apps.apple.com/eg/app/hedeya-stores/id1039973157) — *E-commerce Platform*
+[![View Code](https://img.shields.io/badge/Bitbucket-View_Code-0052CC?style=flat-square&logo=bitbucket)](https://bitbucket.org/hedeya/hedeya-mobile/src/master/)
+
+**React Native • Redux • SQLite • Payment Gateway**
+
+- 📦 **9K+ Products** - Leading Mother & Kids store in Egypt
+- 💳 **Secure Payment** integration
+- ⭐ **4.0+ Rating**
+- 📱 **Offline Cart** with SQLite
+
+**Tech Stack:** React Native CLI, Redux, React Query, SQLite, Firebase
+
+---
+
+### 📦 [LOC - Label on Cable](https://apps.apple.com/fi/app/loc-label-on-a-cable/id1643531827?platform=ipad) — *Enterprise NFC Solution*
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/ahmedfouad01099/LOC)
+
 **React Native • NFC • SQLite • Offline-First**
 
 - 📱 **NFC-Powered Inventory Scanning**
@@ -143,7 +168,21 @@ I specialize in building **production-grade React Native applications** with **a
 - 📊 **Real-time Dashboard** (hundreds of daily transactions)
 - 🏢 **Company-Wide Adoption**
 
-**Tech Stack:** React Native, NFC, SQLite, Real-time Sync
+**Tech Stack:** React Native, NFC Manager, SQLite, Redux, Lottie
+
+---
+
+### 🛒 [Vendoria E-commerce Backend](https://www.apidog.com/apidoc/shared-fd59d3bb-1115-4e3a-b8f5-3fe5a56ca00d/doc-705458) — *RESTful API*
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Vendoria/backend)
+
+**Node.js • Express.js • MongoDB • Socket.io**
+
+- 🔐 **JWT Authentication** with refresh tokens
+- 💳 **Multi-Payment Gateway** (Stripe, PayPal)
+- 📦 **Real-time Inventory** management
+- ☁️ **Cloudinary Integration** for media
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT, Stripe, PayPal, Socket.io
 
 ---
 
